@@ -1,1 +1,5 @@
-This my first line created by dummy account
+<<<<<<< HEAD
+Hello from main branch
+=======
+Hello from feature-ui
+>>>>>>> feature-ui
